@@ -1,10 +1,10 @@
 body {
  background-color: #0a0a20;
  height: 950px;
- width: 1835px;
+ width: 1750px;
  min-height: 100%;
  min-width: 100%;
- zoom: 82%;
+ zoom: 88%;
  
 }
 
@@ -75,7 +75,7 @@ a {
 .EUimg {
     
     position: absolute;
-    right: 72.5px;
+    left: 1420px;
     top: 0px;
     
 }
@@ -94,7 +94,7 @@ a {
       width: 250px;
       height: 800px;
       font-weight: bold;
-      right: 0 ;
+      left: 1460px ;
       top: 120px;
       position: absolute;
       filter:opacity(25%)
@@ -148,7 +148,7 @@ a {
       height: 65px;
       font-weight: bold;
       top: 50px;
-      right: 0;
+      left: 1460px;
       position: absolute;
       filter:opacity(25%)
 }
@@ -157,7 +157,7 @@ a {
       font-size: 32px;
     text-align: center;
     top: 65px;
-    right: 0;
+    left: 1460px;
     position: absolute;
     width: 250px;
     height: 65px;
@@ -262,10 +262,10 @@ a {
 .layout {
     background-color: rgb(73, 8, 110);
       width: 1700px;
-      height: 800px;
+      height: 820px;
       font-weight: bold;
-      top: 20px;
-      left: 20px;
+      top: 10px;
+      left: 10px;
       position: absolute;
       filter:opacity(25%)
 }
