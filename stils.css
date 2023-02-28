@@ -1,0 +1,312 @@
+body {
+ background-color: #0a0a20;
+ height: 950px;
+ width: 1835px;
+ min-height: 100%;
+ min-width: 100%;
+ zoom: 82%;
+ 
+}
+
+a {
+    font-size: 32px;
+    position: absolute;
+    color: #ffffff;
+    top: 300px;
+    left: 100px;
+}
+.a2{
+    position: absolute;
+    top: 35px;
+    
+    
+}
+
+.a3{
+    position: absolute;
+    top: 70px;
+}
+
+.txt {
+    font-size: 102px;
+    position: absolute;
+    color: #ffffff;
+    top: 17px;
+    left: 50px;
+}
+
+.txxt {
+        font-size: 32px;
+        position: absolute;
+        color: #ffffff;
+        top: 190px;
+        left: 55px;
+}
+.style {
+    margin: 3%;
+    position: relative;
+}
+
+.img {
+    height: 1cm;
+    width: 1cm;
+        position: 1;
+        z-index: 1;
+    background-size: cover;
+    filter:brightness(0.6) blur(0.8px);
+}
+
+.title1 {
+    font-size: 32px;
+    position: absolute;
+    color: #ffffff;
+    top: 17px;
+    left: 50px;
+
+}
+.EUs{
+   color: #ffffff; 
+    font-size: 32px;
+    position: relative;
+    top: 140px;
+    left: 55px;
+
+}
+.EUimg {
+    
+    position: absolute;
+    right: 72.5px;
+    top: 0px;
+    
+}
+.g2 {
+    filter:invert(1) hue-rotate(170deg);
+}
+.tsm{
+    filter:invert(1);
+}
+.drx {
+    filter: brightness(1.8);
+}
+
+.box1{
+    background-color: rgb(73, 8, 110);
+      width: 250px;
+      height: 800px;
+      font-weight: bold;
+      right: 0 ;
+      top: 120px;
+      position: absolute;
+      filter:opacity(25%)
+      
+}
+.box1 img{
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    filter: opacity(25%) hue-rotate(150deg) blur(1px) brightness(0.5);
+}
+
+
+.box2 {
+    background-color: rgb(73, 8, 110);
+      width: 1400px;
+      height: 280px;
+      font-weight: bold;
+      top: 50px;
+      left: 40px;
+      position: absolute;
+      filter:opacity(25%)
+}
+.box2 img{
+    
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    filter: opacity(25%) hue-rotate(150deg) blur(1px) brightness(0.5);
+}
+.box3 {
+    background-color: rgb(73, 8, 110);
+      width: 1400px;
+      height: 560px;
+      font-weight: bold;
+      top: 360px;
+      left: 40px;
+      position: absolute;
+      filter:opacity(25%)
+}
+.box3 img{
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    filter: opacity(25%) hue-rotate(150deg) blur(1px) brightness(0.5);
+}
+
+.box4 {
+    background-color: rgb(73, 8, 110);
+      width: 250px;
+      height: 65px;
+      font-weight: bold;
+      top: 50px;
+      right: 0;
+      position: absolute;
+      filter:opacity(25%)
+}
+.logo {
+    color: #ffffff;
+      font-size: 32px;
+    text-align: center;
+    top: 65px;
+    right: 0;
+    position: absolute;
+    width: 250px;
+    height: 65px;
+     
+}
+
+.box4 img{
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    filter: opacity(25%) hue-rotate(150deg) blur(1px) brightness(0.5);
+}
+
+.column {
+    margin-top: 35px;
+    float: left;
+    width: 400px;
+    height: 350px;
+    padding: 25px;
+  }
+  .row::after {
+    content: "";
+    clear: both;
+    display: table;
+  }
+
+.column img { 
+    height: 350px;
+    width: 400px;
+    filter:brightness(0.8)
+}
+
+.row p {
+    margin-top:5px;
+    text-align: center;
+}
+
+.header {
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 20px;
+    width: 1750px;
+    background-color: rgb(73, 8, 110);
+}
+
+.side p{
+  
+    writing-mode: vertical-rl;
+    color:rgb(73, 8, 110);
+    font-size: 20px;
+    margin-top: 70px;
+    margin-left: 0;
+    text-orientation: upright;
+    text-align: center;
+}
+
+.side2 p{
+  
+    writing-mode: vertical-rl;
+    color:rgb(73, 8, 110);
+    font-size: 20px;
+    margin-top: 200px;
+    margin-left: 0;
+    text-orientation: upright;
+    text-align: center;
+}
+
+.indexBOX {
+    background-color: rgb(73, 8, 110);
+      width: 950px;
+      height: 250px;
+      font-weight: bold;
+      top: 505px;
+      left: 0;
+      position: absolute;
+      filter:opacity(25%)
+}
+.indexBOX img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    filter: opacity(25%) hue-rotate(150deg) blur(1px) brightness(0.5);
+}
+
+.txxt2 {
+    font-size: 32px;
+        position: absolute;
+        color: #ffffff;
+        top: 505px;
+        left: 55px;
+}
+ 
+.ap a {
+    font-size: 32px;
+    position: relative;
+    color: #ffffff;
+    top: 520px;
+    left: 100px;
+}
+
+.layout {
+    background-color: rgb(73, 8, 110);
+      width: 1700px;
+      height: 800px;
+      font-weight: bold;
+      top: 20px;
+      left: 20px;
+      position: absolute;
+      filter:opacity(25%)
+}
+
+.layout img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    filter: opacity(25%) hue-rotate(150deg) blur(1px) brightness(0.5);
+}
+
+table {
+
+    border-collapse: collapse;
+    width: 1000px;
+    
+  }
+  
+  td, th {
+    
+    border: 1px solid rgb(73, 8, 110);
+    text-align: left;
+    padding: 10px;
+  }
+  
+  tr:nth-child(even) {
+    background-color: rgb(73, 8, 110);
+  }
+.diff a{
+    font-size: 32px;
+    position: relative;
+    color: #ffffff;
+    top: auto;
+    left: auto;
+}
+.header2 {
+    position: absolute;
+    top: 0px;
+    left: 0;
+    height: 20px;
+    width: 1740px;
+    background-color: rgb(73, 8, 110);
+    
+}
