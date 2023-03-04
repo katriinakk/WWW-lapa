@@ -262,10 +262,10 @@ a {
 .layout {
     background-color: rgb(73, 8, 110);
       width: 1700px;
-      height: 820px;
+      height: 840px;
       font-weight: bold;
-      top: 10px;
-      left: 10px;
+      top: 20px;
+      left: 20px;
       position: absolute;
       filter:opacity(25%)
 }
