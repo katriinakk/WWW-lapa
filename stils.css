@@ -4,8 +4,8 @@ body {
  width: 1750px;
  min-height: 100%;
  min-width: 100%;
- zoom: 88%;
- 
+ zoom: 72%;
+ position: absolute;
 }
 
 a {
@@ -310,3 +310,19 @@ table {
     background-color: rgb(73, 8, 110);
     
 }
+
+.fade { animation: fadeIn 5s; }
+.fade img {
+    top: 220px;
+    left: 1200px;
+    position: absolute;
+}
+@keyframes fadeIn {
+    0% { opacity: 0; }
+    100% { opacity: 1; }
+  }
+
+  .filter img {
+    filter: opacity(100%) hue-rotate(-30deg) brightness(0.9) saturate(1.1) ;
+    
+  }
