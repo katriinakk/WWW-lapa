@@ -326,3 +326,8 @@ table {
     filter: opacity(100%) hue-rotate(-30deg) brightness(0.9) saturate(1.1) ;
     
   }
+marquee {
+    top: 120px;
+    left: 970px;
+    position:absolute;
+}
